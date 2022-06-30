@@ -1,1 +1,1 @@
-# INSEPTION-NETWORK
+An inception network is a deep neural network with an architectural design that consists of repeating components referred to as Inception modules. As mentioned earlier, this article focuses on the technical details of the inception module.
